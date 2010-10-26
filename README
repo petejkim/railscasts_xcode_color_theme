@@ -1,0 +1,3 @@
+mkdir -p ~/Library/Application\ Support/Xcode/Color\ Themes
+cp Railscasts.xccolortheme ~/Library/Application\ Support/Xcode/Color\ Themes
+
