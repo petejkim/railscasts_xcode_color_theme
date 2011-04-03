@@ -1,3 +1,13 @@
-mkdir -p ~/Library/Application\ Support/Xcode/Color\ Themes
-cp Railscasts.xccolortheme ~/Library/Application\ Support/Xcode/Color\ Themes
+Xcode 3:
 
+mkdir -p ~/Library/Application\ Support/Xcode/Color\ Themes
+cp Xcode3/Railscasts.xccolortheme ~/Library/Application\ Support/Xcode/Color\ Themes
+
+
+Xcode 4:
+
+mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+cp Xcode4/Railscasts.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+
+
+Based on Ryan Bates' Railscasts Textmate theme
